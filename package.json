@@ -1,11 +1,11 @@
 {
-  "name": "goit-js-hw-11-color-switch",
+  "name": "goit-js-hw-11-color-switch-2021",
   "version": "1.0.0",
   "description": "Переключатель цветов\r Есть массив цветов в hex-формате и кнопки Start и Stop.",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/index.html --public-url /goit-js-hw-11-color-switch/",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-11-color-switch-2021/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
